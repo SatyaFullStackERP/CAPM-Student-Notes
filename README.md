@@ -41,8 +41,10 @@ In simple words, using a dev container is a great way to:
  
 	• Work in a clean and focused space without affecting your main computer-The container 
  	is isolated from your host system, meaning no clutter or version conflicts on your local machine.
+  
 	• Try things out freely—even if you break something, you can reset easily-Containers can be recreated instantly. 
  	If something goes wrong, just rebuild the container and you're back to a clean slate.
-	*Share the same setup with teammates so everyone works in the same environment-Sharing the devcontainer.json and 
+  
+	• Share the same setup with teammates so everyone works in the same environment-Sharing the devcontainer.json and 
  	related files ensures all team members get the same dev environment, reducing "it works on my machine" problems.
 
