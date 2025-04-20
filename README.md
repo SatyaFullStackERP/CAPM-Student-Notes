@@ -32,7 +32,7 @@ This way, each project gets the exact version it needs, and we don’t have to i
 
 In simple words, using a dev container is a great way to:
 
-	• Start coding quickly with all the right tools already set up
+	• Start coding quickly with all the required tools already set up inside the container – without installing anything on our local machine
  
 	• Skip the headache of installing and configuring software-Since everything is defined in the container
           (e.g., via Dockerfile or devcontainer.json), you don’t need to manually install anything on your main system.
