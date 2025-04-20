@@ -26,6 +26,10 @@ Various other editors can also be used, such as Jenkins IDE, depending on your w
 
 An advantage of a Docker container image is that it allows us to install specific software with specific versions, tailored to the needs of a particular project. This software gets installed inside the container image, which we can run on our local machine. At the same time, our system remains free of any development tools, keeping it clean and conflict-free.
 
+For example, if one project needs Node.js version 19, we can create a container with Node.js 19 installed.
+If another project needs Node.js version 20, we can create a separate container image with Node.js 20.
+This way, each project gets the exact version it needs, and we don’t have to install or switch versions on our local machine.
+
 In simple words, using a dev container is a great way to:
 
 	• Start coding quickly with all the right tools already set up
