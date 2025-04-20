@@ -50,7 +50,8 @@ If we want to set up a development container, we should follow the official guid
 
 Below is the folder structure that we need to create on our Laptop/Desktop—this can be placed in any preferred location.
 
-<img width="1726" alt="image" src="https://github.com/user-attachments/assets/34f9a08d-17ab-4198-af9d-b6ac0415d479" />
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/ce07aa53-75bc-44af-9160-1ff92e8634ad" />
+
 
 After downloading and unzipping the folder, all the required files will be copied automatically.
 
