@@ -7,10 +7,12 @@ Different Ways to Develop CAPM Applications:
 	1. SAP Business Application Studio (BAS)
 A cloud-based IDE provided by SAP specifically tailored for CAPM development.
 
-	2. Visual Studio Code with Local Setup
+	2. Visual Studio Code with Local Software Setup on our Local Machine!
+
 Install all required CAPM tools and SDKs directly on your local machine.
 
-	3. Visual Studio Code with Docker Container
+	3. Visual Studio Code with Docker Container – install all needed software on the Docker container instead of our Local Machine!
+
 Use Docker Desktop to run a container image with all necessary tools installed—keeping your local machine clean.
 
 	4. GitHub Codespaces
@@ -22,15 +24,7 @@ Various other editors can also be used, such as Jenkins IDE, depending on your w
 
 
 
-An advantage of a Docker container image is that it allows us to install specific software with specific versions tailored to the needs of a particular project.
-
-For example, if one project requires Node.js version 19, we can use a container where Node.js 19 is installed.
-
-For another project that needs Node.js version 20, we can create a separate container image with Node.js 20 installed, and use that for development.
-
-So DEV Containers can be used to work with a set of predefined software and specific software versions, without installing all the required software on our machine.
-
-Dev containers can run on our machine without cluttering it with all the software that would otherwise need to be installed locally.
+An advantage of a Docker container image is that it allows us to install specific software with specific versions, tailored to the needs of a particular project. This software gets installed inside the container image, which we can run on our local machine. At the same time, our system remains free of any development tools, keeping it clean and conflict-free.
 
 In simple words, using a dev container is a great way to:
 
