@@ -46,3 +46,17 @@ In simple words, using a dev container is a great way to:
 	• Share the same setup with teammates so everyone works in the same environment-Sharing the devcontainer.json and 
  	related files ensures all team members get the same dev environment, reducing "it works on my machine" problems.
 
+If we want to set up a development container, we should follow the official guidelines provided at https://containers.dev.
+
+Below is the folder structure that we need to create on our Laptop/Desktop—this can be placed in any preferred location.
+
+<img width="1726" alt="image" src="https://github.com/user-attachments/assets/34f9a08d-17ab-4198-af9d-b6ac0415d479" />
+
+After downloading and unzipping the folder, all the required files will be copied automatically.
+Next, install Docker Desktop on your machine.
+
+Finally, open VS Code and install the Dev Containers extension to enable container-based development.
+
+
+
+
