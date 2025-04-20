@@ -60,6 +60,7 @@ Next, install Docker Desktop on your machine.
 
 Finally, open VS Code and install the Dev Containers extension to enable container-based development.
 
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/1bfee879-3f23-4e9a-b668-2c36bfce08b3" />
 
 
 
