@@ -63,4 +63,10 @@ Finally, open VS Code and install the Dev Containers extension to enable contain
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/1bfee879-3f23-4e9a-b668-2c36bfce08b3" />
 
 
+Download ZIP Folder from GITHUB!
+
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/d3fd9189-3129-4b02-b03a-e126fd609646" />
+
+
+
 
