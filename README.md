@@ -52,20 +52,22 @@ Below is the folder structure that we need to create on our Laptop/Desktop—thi
 
 <img width="1468" alt="image" src="https://github.com/user-attachments/assets/ce07aa53-75bc-44af-9160-1ff92e8634ad" />
 
+Download ZIP Folder from GITHUB!
+
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/d3fd9189-3129-4b02-b03a-e126fd609646" />
+
 
 After downloading and unzipping the folder, all the required files will be copied automatically.
 
 
 Next, install Docker Desktop on your machine.
 
-Finally, open VS Code and install the Dev Containers extension to enable container-based development.
+Open VS Code and install the Dev Containers extension to enable container-based development.
 
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/1bfee879-3f23-4e9a-b668-2c36bfce08b3" />
 
 
-Download ZIP Folder from GITHUB!
 
-<img width="1464" alt="image" src="https://github.com/user-attachments/assets/d3fd9189-3129-4b02-b03a-e126fd609646" />
 
 
 
