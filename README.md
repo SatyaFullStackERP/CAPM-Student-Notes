@@ -81,6 +81,6 @@ we can open the container
 
 
 Now we are connected to container environment from VSCode . Container contains all the software installed in it and we dont have to 
-install needed software to RUN CAP Applications.
+install needed software in our machine to RUN and develop CAP Applications- Except VSCode , and docker desktop.
 
 
