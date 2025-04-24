@@ -3,7 +3,7 @@ Notes for Udemy Course-**SAPUI5/Fiori FullStack on BTP | RAP/ABAP Cloud&amp; SAP
 
 Link to the course :-
 
-https://www.udemy.com/course/professional-sapui5-web-application-development-part-1/?srsltid=AfmBOooeUxObJ6BOogsYye3aUwhgVGcsE_qeNrG5NHPKilETG3Z98y9u&couponCode=ST8MT220425G3
+https://www.udemy.com/course/professional-sapui5-web-application-development-part-1/
 
 
 Different Ways to Develop CAPM Applications:
