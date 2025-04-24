@@ -70,9 +70,17 @@ Open VS Code and install the Dev Containers extension to enable container-based 
 
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/1bfee879-3f23-4e9a-b668-2c36bfce08b3" />
 
+Now open the folder in VS Code
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/3bd23a79-5839-4a5d-9f1e-6e7acc6aad70" />
+
+As soon as we open we open specified folder in which devcontainer.json is maintained VSCode will give a prompt to us whether 
+we can open the container 
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/fcf494c9-8bf2-45a8-901e-656ba86357db" />
 
 
-
-
+Now we are connected to container environment from VSCode . Container contains all the software installed in it and we dont have to 
+install needed software to RUN CAP Applications.
 
 
